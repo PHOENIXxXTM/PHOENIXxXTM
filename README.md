@@ -15,7 +15,7 @@
 ---
 
 ### 🧩 Projects
-- 🔹 [Remaner Discord Bot](https://github.com/PHOENIXxXTM/Renamer-Discord-Bot.git)
+- 🔹 [Renamer Discord Bot](https://github.com/PHOENIXxXTM/Renamer-Discord-Bot.git)
 - 🔹 [AI Automation Tools](#)
 
 ---
