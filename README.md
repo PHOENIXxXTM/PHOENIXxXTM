@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey, I'm Phoenix!
 
-<!--
-**PHOENIXxXTM/PHOENIXxXTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I build Discord bots and automation tools  
+☁️ Exploring Gen AI &  Automation
+⚡ Passionate about automation  
+🎯 Currently working on: Remaner Discord Bot  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- Python | Java | Spring Boot  
+- Discord.py | REST APIs | n8n  
+- Cloud | Networking | Security  
+
+---
+
+### 🧩 Projects
+- 🔹 [Remaner Discord Bot](https://github.com/yourusername/Remaner-Discord-Bot)
+- 🔹 [AI Automation Tools](#)
+
+---
+
+### 📫 Connect with Me
+- Discord: `phoenix_xtm`
+- GitHub: [@PHOENIXxXTM](https://github.com/PHOENIXxXtm)
