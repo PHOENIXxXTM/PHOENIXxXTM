@@ -96,7 +96,3 @@
 
 ## 🎯 Fun Fact  
 Automation makes everything easier — you just need the right tools 😉
-
-
-## 🎯 Fun Fact  
-Automation makes everything easier — you just need the right tools 😉
