@@ -47,7 +47,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,spring,js,ts,discord,linux,git,docker,nginx,cloudflare,aws,postman,npm" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,discord,linux,git,docker,nginx,cloudflare,aws,postman,npm" />
 <br>
 <img src="https://skillicons.dev/icons?i=fastapi,react,cloud" />
 </p>
